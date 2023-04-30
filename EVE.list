@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,global.discourse-cdn.com
 DOMAIN-SUFFIX,volunteers.eveonline.com
 DOMAIN-SUFFIX,login.eveonline.com
 DOMAIN-SUFFIX,support.eveonline.com
+DOMAIN-SUFFIX,binaries.eveonline.com
+DOMAIN-SUFFIX,launcher.eveonline.com
+#IP-CIDR,1.0.1.0/24,no-resolve
