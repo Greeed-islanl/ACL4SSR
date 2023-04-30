@@ -17,4 +17,4 @@ DOMAIN-SUFFIX,eveonline.com
 DOMAIN-SUFFIX,ccpgamescdn.com
 DOMAIN-SUFFIX,evetech.net
 DOMAIN-SUFFIX,engine.extccp.com
-SRC-IP-CIDR,172.65.201.188/32
+#SRC-IP-CIDR,172.65.201.188/32
