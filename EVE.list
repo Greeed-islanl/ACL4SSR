@@ -7,4 +7,7 @@ DOMAIN-SUFFIX,login.eveonline.com
 DOMAIN-SUFFIX,support.eveonline.com
 DOMAIN-SUFFIX,binaries.eveonline.com
 DOMAIN-SUFFIX,launcher.eveonline.com
+DOMAIN-SUFFIX,elg-live.evetech.net
+DOMAIN-SUFFIX,cis.eveonline.com
+DOMAIN-SUFFIX,webimg.ccpgamescdn.com
 #IP-CIDR,1.0.1.0/24,no-resolve
