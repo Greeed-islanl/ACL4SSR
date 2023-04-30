@@ -1,7 +1,6 @@
 DOMAIN-SUFFIX,www.eveonline.com
 DOMAIN-SUFFIX,universe.eveonline.com
 DOMAIN-SUFFIX,forums.eveonline.com
-DOMAIN-SUFFIX,global.discourse-cdn.com
 DOMAIN-SUFFIX,volunteers.eveonline.com
 DOMAIN-SUFFIX,login.eveonline.com
 DOMAIN-SUFFIX,support.eveonline.com
@@ -14,4 +13,7 @@ DOMAIN-SUFFIX,images.evetech.net
 DOMAIN-SUFFIX,tranquility.servers.eveonline.com
 DOMAIN-SUFFIX,live-public-gateway.evetech.net
 DOMAIN-SUFFIX,live.chat.eveonline.com
+DOMAIN-SUFFIX,eveonline.com
+DOMAIN-SUFFIX,ccpgamescdn.com
+DOMAIN-SUFFIX,evetech.net
 #IP-CIDR,1.0.1.0/24,no-resolve
