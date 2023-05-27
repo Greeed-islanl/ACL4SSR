@@ -1,4 +1,7 @@
 DOMAIN-SUFFIX,openai.com
+DOMAIN,ios.chat.openai
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,sentry
 DOMAIN-SUFFIX,pay.openai.com
 DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
@@ -11,3 +14,7 @@ DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
 # Add justmysocks.ne
 DOMAIN-SUFFIX,justmysocks.ne
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-KEYWORD,datadoghq
+DOMAIN-KEYWORD,revenuecat
