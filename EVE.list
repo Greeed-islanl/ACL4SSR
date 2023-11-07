@@ -13,12 +13,14 @@ DOMAIN-SUFFIX,images.evetech.net
 DOMAIN-SUFFIX,tranquility.servers.eveonline.com
 DOMAIN-SUFFIX,live-public-gateway.evetech.net
 DOMAIN-SUFFIX,live.chat.eveonline.com
-DOMAIN-SUFFIX,eveonline.com
+#DOMAIN-SUFFIX,eveonline.com
 DOMAIN-SUFFIX,ccpgamescdn.com
 DOMAIN-SUFFIX,evetech.net
 DOMAIN-SUFFIX,engine.extccp.com
 DOMAIN-SUFFIX,zkillboard.com
 DOMAIN-SUFFIX,evewho.com
+#DOMAIN,resources.eveonline.com
+
 IP-CIDR,3.33.235.18/32
 IP-CIDR,13.248.213.232/32
 IP-CIDR,35.186.247.156/32
