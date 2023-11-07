@@ -4,7 +4,7 @@ DOMAIN,forums.eveonline.com
 DOMAIN,volunteers.eveonline.com
 DOMAIN,login.eveonline.com
 DOMAIN,support.eveonline.com
-DOMAIN,binaries.eveonline.com
+#DOMAIN,binaries.eveonline.com
 DOMAIN,launcher.eveonline.com
 DOMAIN,elg-live.evetech.net
 DOMAIN,cis.eveonline.com
@@ -15,10 +15,10 @@ DOMAIN,live-public-gateway.evetech.net
 DOMAIN,live.chat.eveonline.com
 #DOMAIN-SUFFIX,eveonline.com
 
-DOMAIN-SUFFIX,,ccpgamescdn.com
-DOMAIN-SUFFIX,,evetech.net
-DOMAIN-SUFFIX,,engine.extccp.com
-DOMAIN-SUFFIX,,zkillboard.com
+DOMAIN-SUFFIX,ccpgamescdn.com
+DOMAIN-SUFFIX,evetech.net
+DOMAIN-SUFFIX,engine.extccp.com
+DOMAIN-SUFFIX,zkillboard.com
 DOMAIN-SUFFIX,evewho.com
 #DOMAIN,resources.eveonline.com
 
