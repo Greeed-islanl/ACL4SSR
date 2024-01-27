@@ -16,6 +16,8 @@ DOMAIN,live-public-gateway.evetech.net
 DOMAIN,live.chat.eveonline.com
 DOMAIN,gateway.production.evevanguardtech.com
 DOMAIN,gamelift.evevanguardcf.com
+DOMAIN,api.ipify.org
+DOMAIN,api.honeycomb.io
 
 DOMAIN,www.evecookbook.com
 #DOMAIN-SUFFIX,eveonline.com
