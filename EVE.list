@@ -5,7 +5,6 @@ DOMAIN,forums.eveonline.com
 DOMAIN,volunteers.eveonline.com
 DOMAIN,login.eveonline.com
 DOMAIN,support.eveonline.com
-DOMAIN,binaries.eveonline.com,DIRECT
 DOMAIN,launcher.eveonline.com
 DOMAIN,elg-live.evetech.net
 DOMAIN,cis.eveonline.com
@@ -22,7 +21,9 @@ DOMAIN,extccp.com
 DOMAIN,www.recaptcha.net
 DOMAIN,www.evecookbook.com
 DOMAIN,web-cdn.eveonline.com
-#DOMAIN,resources.eveonline.com
+
+DOMAIN,binaries.eveonline.com,DIRECT
+DOMAIN,resources.eveonline.com,DIRECT
 
 DOMAIN-SUFFIX,eveonline.com
 DOMAIN-SUFFIX,ccpgamescdn.com
