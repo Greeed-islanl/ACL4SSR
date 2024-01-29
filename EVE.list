@@ -21,8 +21,9 @@ DOMAIN,api.honeycomb.io
 DOMAIN,extccp.com
 DOMAIN,www.recaptcha.net
 DOMAIN,www.evecookbook.com
-#DOMAIN-SUFFIX,eveonline.com
+DOMAIN,web-cdn.eveonline.com
 
+#DOMAIN-SUFFIX,eveonline.com
 DOMAIN-SUFFIX,ccpgamescdn.com
 DOMAIN-SUFFIX,evetech.net
 DOMAIN-SUFFIX,engine.extccp.com
