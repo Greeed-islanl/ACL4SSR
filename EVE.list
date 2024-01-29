@@ -5,7 +5,7 @@ DOMAIN,forums.eveonline.com
 DOMAIN,volunteers.eveonline.com
 DOMAIN,login.eveonline.com
 DOMAIN,support.eveonline.com
-#DOMAIN,binaries.eveonline.com
+DOMAIN,binaries.eveonline.com,DIRECT
 DOMAIN,launcher.eveonline.com
 DOMAIN,elg-live.evetech.net
 DOMAIN,cis.eveonline.com
@@ -22,14 +22,15 @@ DOMAIN,extccp.com
 DOMAIN,www.recaptcha.net
 DOMAIN,www.evecookbook.com
 DOMAIN,web-cdn.eveonline.com
+#DOMAIN,resources.eveonline.com
 
-#DOMAIN-SUFFIX,eveonline.com
+DOMAIN-SUFFIX,eveonline.com
 DOMAIN-SUFFIX,ccpgamescdn.com
 DOMAIN-SUFFIX,evetech.net
 DOMAIN-SUFFIX,engine.extccp.com
 DOMAIN-SUFFIX,zkillboard.com
 DOMAIN-SUFFIX,evewho.com
-#DOMAIN,resources.eveonline.com
+
 
 IP-CIDR,3.33.235.18/32
 IP-CIDR,13.248.213.232/32
