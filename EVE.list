@@ -23,8 +23,9 @@ DOMAIN,www.evecookbook.com
 DOMAIN,web-cdn.eveonline.com
 DOMAIN,launcher.ccpgames.com
 DOMAIN,dc.services.visualstudio.com
+DOMAIN,binaries.eveonline.com
+DOMAIN,clientstream.launchdarkly.com
 
-DOMAIN,binaries.eveonline.com,DIRECT
 DOMAIN,resources.eveonline.com,DIRECT
 
 DOMAIN-SUFFIX,eveonline.com
