@@ -25,6 +25,8 @@ DOMAIN,launcher.ccpgames.com
 DOMAIN,dc.services.visualstudio.com
 DOMAIN,binaries.eveonline.com
 DOMAIN,clientstream.launchdarkly.com
+DOMAIN,app.launchdarkly.com
+DOMAIN,events.launchdarkly.com
 
 DOMAIN,resources.eveonline.com,DIRECT
 
