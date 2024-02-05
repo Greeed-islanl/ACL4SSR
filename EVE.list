@@ -28,7 +28,7 @@ DOMAIN,clientstream.launchdarkly.com
 DOMAIN,app.launchdarkly.com
 DOMAIN,events.launchdarkly.com
 
-DOMAIN,resources.eveonline.com,DIRECT
+#DOMAIN,resources.eveonline.com,DIRECT
 
 #DOMAIN-SUFFIX,eveonline.com
 DOMAIN-SUFFIX,ccpgamescdn.com
