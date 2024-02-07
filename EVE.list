@@ -44,6 +44,9 @@ DOMAIN-SUFFIX,engine.extccp.com
 DOMAIN-SUFFIX,zkillboard.com
 DOMAIN-SUFFIX,evewho.com
 DOMAIN-SUFFIX,ccp.cc
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,awsglobalaccelerator.com
+
 
 #IP-CIDR,3.33.235.18/32
 #IP-CIDR,13.248.213.232/32
