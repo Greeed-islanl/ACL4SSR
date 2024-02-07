@@ -27,6 +27,12 @@ DOMAIN,binaries.eveonline.com
 DOMAIN,clientstream.launchdarkly.com
 DOMAIN,app.launchdarkly.com
 DOMAIN,events.launchdarkly.com
+DOMAIN,ccpgames.cdn.adglare.net
+DOMAIN,binaries.eveonline.com.cdn.cloudflare.net
+DOMAIN,ebr-service.eveonline.com
+DOMAIN,c3.shared.global.fastly.net
+DOMAIN,ccpgames.engine.adglare.net
+
 
 #DOMAIN,resources.eveonline.com,DIRECT
 
@@ -36,7 +42,7 @@ DOMAIN-SUFFIX,evetech.net
 DOMAIN-SUFFIX,engine.extccp.com
 DOMAIN-SUFFIX,zkillboard.com
 DOMAIN-SUFFIX,evewho.com
-
+DOMAIN-SUFFIX,ccp.cc
 
 #IP-CIDR,3.33.235.18/32
 #IP-CIDR,13.248.213.232/32
