@@ -32,7 +32,8 @@ DOMAIN,binaries.eveonline.com.cdn.cloudflare.net
 DOMAIN,ebr-service.eveonline.com
 DOMAIN,c3.shared.global.fastly.net
 DOMAIN,ccpgames.engine.adglare.net
-
+DOMAIN,static.cloudflareinsights.com
+DOMAIN,cdnjs.cloudflare.com
 
 #DOMAIN,resources.eveonline.com,DIRECT
 
