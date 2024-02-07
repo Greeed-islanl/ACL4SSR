@@ -34,7 +34,7 @@ DOMAIN,c3.shared.global.fastly.net
 DOMAIN,ccpgames.engine.adglare.net
 DOMAIN,static.cloudflareinsights.com
 DOMAIN,cdnjs.cloudflare.com
-
+DOMAIN,www.google.com
 #DOMAIN,resources.eveonline.com,DIRECT
 
 #DOMAIN-SUFFIX,eveonline.com
