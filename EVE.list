@@ -35,7 +35,11 @@ DOMAIN,events.launchdarkly.com
 #DOMAIN,static.cloudflareinsights.com
 #DOMAIN,cdnjs.cloudflare.com
 #DOMAIN,www.google.com
-#DOMAIN,resources.eveonline.com,DIRECT
+
+DOMAIN,resources.eveonline.com,DIRECT
+DOMAIN,vgs-tg.eveonline.com,DIRECT
+
+
 
 #DOMAIN-SUFFIX,eveonline.com
 DOMAIN-SUFFIX,ccpgamescdn.com
