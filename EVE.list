@@ -39,8 +39,6 @@ DOMAIN,events.launchdarkly.com
 DOMAIN,resources.eveonline.com,DIRECT
 DOMAIN,vgs-tg.eveonline.com,DIRECT
 
-DOMAIN-SUFFIX,xirsys.com
-
 #DOMAIN-SUFFIX,eveonline.com
 DOMAIN-SUFFIX,ccpgamescdn.com
 DOMAIN-SUFFIX,evetech.net
