@@ -27,6 +27,8 @@ DOMAIN,binaries.eveonline.com
 DOMAIN,clientstream.launchdarkly.com
 DOMAIN,app.launchdarkly.com
 DOMAIN,events.launchdarkly.com
+DOMAIN,esi.evetech.net
+DOMAIN,launcher-cdn.eveonline.com
 #DOMAIN,ccpgames.cdn.adglare.net
 #DOMAIN,binaries.eveonline.com.cdn.cloudflare.net
 #DOMAIN,ebr-service.eveonline.com
@@ -45,6 +47,7 @@ DOMAIN-SUFFIX,evetech.net
 DOMAIN-SUFFIX,engine.extccp.com
 DOMAIN-SUFFIX,zkillboard.com
 DOMAIN-SUFFIX,evewho.com
+DOMAIN-SUFFIX,sentry.io
 #DOMAIN-SUFFIX,ccp.cc
 #DOMAIN-SUFFIX,cloudfront.net
 #DOMAIN-SUFFIX,awsglobalaccelerator.com
