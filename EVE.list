@@ -30,6 +30,7 @@ DOMAIN,events.launchdarkly.com
 DOMAIN,esi.evetech.net
 DOMAIN,launcher-cdn.eveonline.com
 DOMAIN,www.google.com
+DOMAIN,events.launchdarkly.com
 #DOMAIN,ccpgames.cdn.adglare.net
 #DOMAIN,binaries.eveonline.com.cdn.cloudflare.net
 #DOMAIN,ebr-service.eveonline.com
@@ -42,6 +43,7 @@ DOMAIN,www.google.com
 DOMAIN,resources.eveonline.com,DIRECT
 DOMAIN,vgs-tg.eveonline.com,DIRECT
 
+DOMAIN-SUFFIX,launchdarkly.com
 #DOMAIN-SUFFIX,eveonline.com
 DOMAIN-SUFFIX,ccpgamescdn.com
 DOMAIN-SUFFIX,evetech.net
