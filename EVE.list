@@ -40,7 +40,7 @@ DOMAIN-SUFFIX,events.launchdarkly.com
 #DOMAIN,static.cloudflareinsights.com
 #DOMAIN,cdnjs.cloudflare.com
 #DOMAIN,www.google.com
-
+PROCESS-NAME,tailscaled,DIRECT
 DOMAIN,resources.eveonline.com,DIRECT
 DOMAIN,vgs-tg.eveonline.com,DIRECT
 DOMAIN,resources2.eveonline.com,DIRECT
