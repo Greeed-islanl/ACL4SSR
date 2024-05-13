@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,engine.extccp.com
 DOMAIN-SUFFIX,zkillboard.com
 DOMAIN-SUFFIX,evewho.com
 DOMAIN-SUFFIX,sentry.io
+DOMAIN,engine2.extccp.com
 #DOMAIN-SUFFIX,ccp.cc
 #DOMAIN-SUFFIX,cloudfront.net
 #DOMAIN-SUFFIX,awsglobalaccelerator.com
