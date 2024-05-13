@@ -9,7 +9,7 @@ DOMAIN,launcher.eveonline.com
 DOMAIN,elg-live.evetech.net
 DOMAIN,cis.eveonline.com
 DOMAIN,webimg.ccpgamescdn.com
-DOMAIN,images.evetech.net
+#DOMAIN,images.evetech.net
 DOMAIN,tranquility.servers.eveonline.com
 DOMAIN,live-public-gateway.evetech.net
 DOMAIN,live.chat.eveonline.com
@@ -43,6 +43,8 @@ DOMAIN-SUFFIX,events.launchdarkly.com
 
 DOMAIN,resources.eveonline.com,DIRECT
 DOMAIN,vgs-tg.eveonline.com,DIRECT
+DOMAIN,resources2.eveonline.com,DIRECT
+DOMAIN,images.evetech.net,DIRECT
 
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,eveonline.com
