@@ -46,7 +46,10 @@ DOMAIN,vgs-tg.eveonline.com,DIRECT
 DOMAIN,resources2.eveonline.com,DIRECT
 DOMAIN,images.evetech.net,DIRECT
 
+IP-CIDR,100.64.0.0/24
+
 DOMAIN-SUFFIX,launchdarkly.com
+
 DOMAIN-SUFFIX,eveonline.com
 DOMAIN-SUFFIX,ccpgamescdn.com
 DOMAIN-SUFFIX,evetech.net
