@@ -29,6 +29,7 @@ DOMAIN,app.launchdarkly.com
 DOMAIN,events.launchdarkly.com
 DOMAIN,esi.evetech.net
 DOMAIN,launcher-cdn.eveonline.com
+DOMAIN,www.google.com
 #DOMAIN,ccpgames.cdn.adglare.net
 #DOMAIN,binaries.eveonline.com.cdn.cloudflare.net
 #DOMAIN,ebr-service.eveonline.com
