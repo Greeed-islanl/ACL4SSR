@@ -31,7 +31,7 @@ DOMAIN,esi.evetech.net
 DOMAIN,launcher-cdn.eveonline.com
 #DOMAIN,www.google.com
 DOMAIN,events.launchdarkly.com
-DOMAIN-SUFFIX,events.launchdarkly.com
+#DOMAIN-SUFFIX,events.launchdarkly.com
 #DOMAIN,ccpgames.cdn.adglare.net
 #DOMAIN,binaries.eveonline.com.cdn.cloudflare.net
 #DOMAIN,ebr-service.eveonline.com
@@ -46,18 +46,18 @@ DOMAIN-SUFFIX,events.launchdarkly.com
 #DOMAIN,resources2.eveonline.com,DIRECT
 #DOMAIN,images.evetech.net,DIRECT
 
-IP-CIDR,100.64.0.0/24
+#IP-CIDR,100.64.0.0/24
 
-DOMAIN-SUFFIX,launchdarkly.com
+#DOMAIN-SUFFIX,launchdarkly.com
 
-DOMAIN-SUFFIX,eveonline.com
-DOMAIN-SUFFIX,ccpgamescdn.com
-DOMAIN-SUFFIX,evetech.net
-DOMAIN-SUFFIX,engine.extccp.com
-DOMAIN-SUFFIX,zkillboard.com
-DOMAIN-SUFFIX,evewho.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN,engine2.extccp.com
+#DOMAIN-SUFFIX,eveonline.com
+#DOMAIN-SUFFIX,ccpgamescdn.com
+#DOMAIN-SUFFIX,evetech.net
+#DOMAIN-SUFFIX,engine.extccp.com
+#DOMAIN-SUFFIX,zkillboard.com
+#DOMAIN-SUFFIX,evewho.com
+#DOMAIN-SUFFIX,sentry.io
+#DOMAIN,engine2.extccp.com
 #DOMAIN-SUFFIX,ccp.cc
 #DOMAIN-SUFFIX,cloudfront.net
 #DOMAIN-SUFFIX,awsglobalaccelerator.com
